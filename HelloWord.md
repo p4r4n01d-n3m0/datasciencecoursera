@@ -8,3 +8,6 @@ If you are evaluating my work, [here's a token of my appreciation](https://img1.
 
 CAUTION: This repo may contain content in PT-BR, be aware for m\*f\* Brasilian references <br />
 ![mas ta suave](https://i.pinimg.com/originals/ea/15/ad/ea15ad63ccc62fc94b077ad8761a7cc7.gif)
+
+#### content:
+* notion exports: contain my class annotation during the course four modules. It was exported from Notion, so it's poorly fomatted. Eventualy I'll add the markdown files translated to English (maybe)
